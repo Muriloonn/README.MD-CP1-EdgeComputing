@@ -31,3 +31,5 @@ Passo a Passo
 3- Simulamos o código diversas vezes.
 4- Testamos a variação de luz no sensor e observamos a reação dos LEDs e do buzzer.
 5- Corrigimos os erros do código para que o sistema funcione perfeitamente.
+
+![Circuito Arduino](circuitoArduinoCP1EdgeComputing)
